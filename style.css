@@ -1,0 +1,57 @@
+img{
+  max-width: 100%;
+}
+.logo-img{
+  width: 85px;
+}
+.banner-section{
+  background-color: #f9f9ff;
+}
+.banner-text-left{
+  margin-top: 180px;
+}
+
+.about-section{
+ 
+}
+/* .about-img{
+  border: 1px solid #ddd;
+} */
+
+.counter-number{
+  background-color: #8490ff;
+  padding: 70px 0;
+}
+
+.using-section{
+  background-color:#f9f9ff ;
+}
+.using-number{
+  width: 100px;
+  height: 100px;
+  background-color: #f9f9ff;
+}
+.using-number h1{
+  line-height: 100px;
+}
+.item{
+  margin-top: 80px;
+}
+.item h2{
+  margin-top: -40px;
+}
+
+.item-img img {
+	width: 90px;
+	position: relative;
+	top: -60px;
+	left: -70px;
+}
+
+.address-right{
+  margin-top: 85px;
+}
+
+.footer{
+background-color: #04091e;
+}
